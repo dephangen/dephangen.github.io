@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://dephangen.github.io/sitemap.html.gz
+Sitemap: https://dephangen.github.io/app/sitemap.html.gz
+Sitemap: https://dephangen.github.io/assets/sitemap.html.gz
+Sitemap: https://dephangen.github.io/css/sitemap.html.gz
+Sitemap: https://dephangen.github.io/includes/sitemap.html.gz
+Sitemap: https://dephangen.github.io/item/sitemap.html.gz
+Sitemap: https://dephangen.github.io/src/sitemap.html.gz
